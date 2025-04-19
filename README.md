@@ -31,10 +31,10 @@ bash
 Copy
 Edit
 # 1. Clone the repository
-git clone https://github.com/your-username/medi-connect.git
+git clone https://github.com/your-username/mediConnect.git
 
 # 2. Navigate into the project directory
-cd medi-connect
+cd mediConnect
 
 # 3. Install dependencies
 npm install
